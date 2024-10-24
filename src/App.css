@@ -1,0 +1,9 @@
+.app-container{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    width: 1020px;
+}
+body{
+    background-color: rgb(95, 93, 92);
+}
